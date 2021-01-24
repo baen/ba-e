@@ -1,6 +1,6 @@
 <!--- SOURCE README https://github.com/anuraghazra/anuraghazra --->
 
-### Hi there, I'm [Bae!](https://bae.codes) 👋
+### Hi there, I'm [PlatinBae](https://bae.codes) 👋
 
 <a href="https://www.instagram.com/bae1dev">
   <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/baen/baen/master/asset/instagram.svg" />
