@@ -8,9 +8,9 @@ sources:
 --->
 
 
-<h1 align="center">Welcome to my profile 👋
+<h3 align="center">Welcome to my profile 👋
 <br>
-<img src="https://komarev.com/ghpvc/?username=platinbae&color=red" alt="view count" align="center" /><h1>
+<img src="https://komarev.com/ghpvc/?username=platinbae&color=red" alt="view count" align="center" /></h3>
 
 <br>
 
@@ -25,7 +25,7 @@ Hey, I'm **PlatinBae** a Turkish citizen who tries to learn new things every day
 - 💬 Ask me about anything [here](https://github.com/PlatinBae/PlatinBae/issues)</li>
 
 
-<h2>Found me at<h2>
+<h4>Found me at</h4>
 
 <a href="https://discord.gg/WsRuyuGjnY">
   <img alt="Discord" width="23px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_discord.svg" />
@@ -43,7 +43,7 @@ Hey, I'm **PlatinBae** a Turkish citizen who tries to learn new things every day
   <img alt="Steam" width="24px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_steam.svg" />
 </a>
 
-<h2>Some Languages and Tools</h2>
+<h4>Some Languages and Tools</h4>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
