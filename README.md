@@ -6,8 +6,7 @@
 		icons:
 			https://fontawesome.com
 --->
-
-<body align="center">
+<body style="text-align:center">
 
 	<h3>Hi there, I'm PlatinBae</h3> 👋 <img src="https://komarev.com/ghpvc/?username=platinbae&color=red" alt="" align="center" />
 
