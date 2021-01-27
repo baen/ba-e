@@ -8,16 +8,13 @@ sources:
 --->
 
 
-<h3 align="center">Welcome to my profile 👋
+<h3>Welcome to my profile 👋
 <br>
 <img src="https://komarev.com/ghpvc/?username=platinbae&color=red" alt="view count" align="center" /></h3>
 
 <br>
 
 Hey, I'm **PlatinBae** a Turkish citizen who tries to learn new things every day
-
-<br>
-
 
 - 🔭 I’m currently working on [`Ashbot`](https://github.com/ashbot)</li>
 - 🌱 I’m currently learning Baklava-lang *jk*</li>
