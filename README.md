@@ -7,41 +7,43 @@ sources:
 	      https://fontawesome.com
 --->
 
-<center>
-<h3 align="center">Hi there, I'm PlatinBae 👋 <br> <img src="https://komarev.com/ghpvc/?username=platinbae&color=red" alt="view count" align="center" /><h3>
 
-<br />
-	
-<p>
-  Hey, I'm <b>PlatinBae</b> a Turkish citizen who tries to learn new things every day.
-</p>
-	
-<ul>
-  <li>🔭 I’m currently working on [`Ashbot`](https://github.com/ashbot)</li>
-  <li> 🌱 I’m currently learning Baklava-lang *jk*</li>
-  <li>👯 I’m looking to collaborate on [`queen`](https://github.com/PlatinBae/queen)</li>
-  <li>💬 Ask me about anything [here](https://github.com/PlatinBae/PlatinBae/issues)</li>
-</ul>
+<h3 align="center">Welcome to my profile 👋
+<br>
+<img src="https://komarev.com/ghpvc/?username=platinbae&color=red" alt="view count" align="center" /><h3>
 
-<bold><h4>Found me at</bold></h4>
+<br>
+
+Hey, I'm **PlatinBae** a Turkish citizen who tries to learn new things every day
+
+<br>
+
+
+- 🔭 I’m currently working on [`Ashbot`](https://github.com/ashbot)</li>
+- 🌱 I’m currently learning Baklava-lang *jk*</li>
+- 👯 I’m looking to collaborate on [`queen`](https://github.com/PlatinBae/queen)</li>
+- 💬 Ask me about anything [here](https://github.com/PlatinBae/PlatinBae/issues)</li>
+
+
+<h4>Found me at<h4>
 
 <a href="https://discord.gg/WsRuyuGjnY">
-  <img alt="Instagram" width="20px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_discord.svg" />
+  <img alt="Discord" width="23px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_discord.svg" />
 </a>
 	
 <a href="https://www.instagram.com/pwbae">
-  <img alt="Twitter" width="21px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_instagram.svg" />
+  <img alt="Instagram" width="24px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_instagram.svg" />
 </a>
 	
 <a href="https://twitter.com/platinbae">
-  <img  alt="Discord" width="21px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_twitter.svg" />
+  <img  alt="Twitter" width="24px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_twitter.svg" />
 </a>
 	
 <a href="https://steamcommunity/id/platinbae">
-  <img alt="Other links" width="21px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_steam.svg" />
+  <img alt="Steam" width="24px" src="https://raw.githubusercontent.com/PlatinBae/PlatinBae/master/asset/logo_steam.svg" />
 </a>
 
-<h4><bold>Some Languages and Tools</bold></h4>
+<h4>Some Languages and Tools</h4>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
