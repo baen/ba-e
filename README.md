@@ -15,7 +15,7 @@
    <table style="border-spacing:5px;">
       <tr>
           <td align="center" style="padding=0;width=35%;">
-              <img alt="Discord Presence" style="padding=0;" src="https://lastfm-recently-played.vercel.app/api?user=ba-e&count=3&width=600" />
+              <img alt="Last.fm recently played" style="padding=0;" src="https://lastfm-recently-played.vercel.app/api?user=ba-e&count=3&width=600" />
           </td>
       </tr>
    </table>
