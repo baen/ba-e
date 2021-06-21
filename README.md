@@ -15,7 +15,7 @@
    <table style="border-spacing:5px;">
       <tr>
          <a href="https://discord.com/users/510078946604220417">
-            <td align="center" style="padding=0;width=50%;">
+            <td align="center" style="padding=0;width=35%;">
                <img alt="Discord Presence" style="padding=0;" src="https://lanyard-profile-readme.vercel.app/api/510078946604220417?bg=:0d1017" />
             </td>
          </a>
