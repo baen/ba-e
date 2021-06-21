@@ -16,7 +16,7 @@
       <tr>
          <a href="https://discord.com/users/510078946604220417">
             <td align="center" style="padding=0;width=35%;">
-               <img alt="Discord Presence" style="padding=0;" src="https://lanyard-profile-readme.vercel.app/api/510078946604220417?bg=:0d1017" />
+               <img alt="Discord Presence" style="padding=0;" src="https://lastfm-recently-played.vercel.app/api?user=ba-e&count=3&width=600" />
             </td>
          </a>
       </tr>
